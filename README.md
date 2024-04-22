@@ -14,3 +14,5 @@ calculator.read();
 alert(calculator.sum());
 alert(calculator.mul());
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
